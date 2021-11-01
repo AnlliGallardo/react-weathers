@@ -1,0 +1,385 @@
+/* body{
+    background: #141E30;  
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);  
+    background: linear-gradient(to right, #243B55, #141E30); 
+} */
+
+#clima_city{
+    text-transform: capitalize;
+    
+}
+
+#clima_countryCode{ 
+    text-transform: uppercase;
+}
+
+.clima_location{
+    height: 30px;
+}
+
+#clima_humidity{
+    font-size: 30px;
+}
+
+.grande{
+    font-size: 30px;
+}
+
+
+/* Navbar */
+
+.navbar{
+    background-color: #131921;
+    height: 74px;
+}
+
+.amazonas{
+    width: 126px; 
+    height: 40px;
+    margin-left: -75px;
+    margin-top: 5px;
+}
+
+.hello{
+    margin-top: -50px;
+    margin-left: 180px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+        
+}
+
+.icon{
+    color: white;
+    margin-left: 155px;
+    margin-top: -10px;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* white */
+    color: #FFFFFF;
+}
+
+.dropdown-toggle{
+    margin-left: 18px;
+    background: #F3F3F3;
+    margin-top: -35px;
+    height: 40px;
+    border-radius: 8px 0px 0px 8px;
+    width: 215px;
+}
+
+.search{
+    margin-left: 499px;
+    margin-top: -48px;
+    height: 40px;
+    width: 330px;
+    border-radius: 0px 0px;
+}
+
+.iconsearch{
+    background-color: #F0AD64;
+    flex-direction: row;
+    width: 48px;
+    height: 40px;
+    text-align: justify;
+    margin-left: -10px;
+    border-radius: 0px 8px 8px 0px;
+}
+
+.helloiden{
+    margin-left: 850px;
+    color: white;
+    margin-top: -40px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.dropdown-toggle2{
+    margin-left: 25px;
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: white;
+}
+
+.devoluciones{
+    margin-left: 960px;
+    color: white;
+    margin-top: -32px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.pedidos{
+    margin-left: 1000px;
+    color: white;
+    margin-top: -112px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.carrito{
+    width: 40px; 
+    height: 40px;
+    margin-left: 1050px;
+    margin-top: -60px;
+}
+
+.car{
+    margin-left: 1070px;
+    color: white;
+    margin-top: -30px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+/* Navbar2 */
+
+.nav2{
+    color: white;
+    margin-top: 7px;
+    margin-left: 20px;
+}
+
+/* Login */
+
+h1{
+    text-align: center;
+    
+    padding-top: 50px;
+}
+
+.principal1{
+    background-color: rgb(197, 194, 194); 
+    align-items: center;
+    padding: 2.5rem;
+    font-family: 'Noto Sans Display', sans-serif;
+}
+
+.formLogin{
+    background-color: #dedfe2;
+    width:50vw;
+    margin-left: 350px;
+    margin-top: 80px;
+    border-radius: 20px;
+}
+
+.campo{
+    margin-left: 180px;
+    margin-top: 30px;
+    padding-left: -510px;
+}
+
+.formBasicEmail{
+    width: 400px;
+    height: 40px;
+    margin-left: 150px;
+    padding-left: 10px;
+    border-color: black;
+}
+
+.contraseña{
+    margin-left: 180px;
+    margin-top: 10px;
+    padding-left: -510px;
+}
+
+.formBasicPassword{
+    width: 400px;
+    height: 40px;
+    margin-left: 153px;
+    padding-left: 10px;
+    border-color: black;
+}
+
+.bootsend{
+    margin-left: 300px;
+    margin-top: 10px;
+}
+
+.google-icon{
+    margin-left: 260px;
+    padding-top: 20px;
+    width: 45px;
+    height: 45px;    
+}
+
+.facebook-icon{
+    margin-left: 310px;
+    margin-top: -50px;   
+    width: 30px;
+    height: 25px;
+}
+
+.registro{
+    margin-left: 300px;
+    margin-top: 30px;
+    color: black;
+}
+
+/* REGISTRO */
+
+.logout{
+    margin-top: -950px;
+    margin-left: 950px;
+}
+
+.regis{
+    margin-top: -1000px;
+    margin-left: 1050px;
+}
+
+.fondo{
+    background-color: #dce2f3a1;
+    align-items: center;
+    
+    margin: auto;
+    padding: 2rem;
+    font-family: 'Noto Sans Display', sans-serif;
+    height: 500px;
+    width: auto;
+}
+
+.principal{
+    background-color: #dce2f3a1;
+    align-items: center;
+    
+    margin: auto;
+    padding: 2rem;
+    font-family: 'Noto Sans Display', sans-serif;
+    height: 500px;
+}
+
+.formRegistro{
+    background-color: #afb0b3;
+    width:55vw;
+    padding: 2.5rem;
+    margin-left: 250px;
+    margin-top: 20px;
+    border-radius: 20px;
+    height: 500px;
+}
+
+.RegisNos{
+    margin-top: -70px;
+    color: black;
+}
+
+.campname{
+    margin-left: 80px;
+    margin-top: 60px; 
+    color: #131921;  
+}
+
+.formBasicName{
+    width: 400px;
+    height: 40px;
+    margin-left: 50px;
+    border-color: black;
+    padding-left: 10px;
+}
+
+.campoemail{
+    margin-left: 88px;
+    margin-top: 10px;
+    color: #131921;
+}
+
+.formEmailRegistro{
+    width: 400px;
+    height: 40px;
+    margin-left: 50px;
+    border-color: black;
+    padding-left: 10px;
+}
+
+.camppassword{
+    margin-left: 55px;
+    color: #131921;
+    margin-top: 10px;
+}
+
+.formBasicPasswordRegistro{
+    width: 400px;
+    height: 40px;
+    margin-left: 50px;
+    border-color: black;
+    padding-left: 10px;
+}
+
+.camprepita{
+    margin-left: 8px;
+    padding-top: 10px;
+    color: #131921;
+}
+
+.formBasicRepitPassword{
+    width: 400px;
+    height: 40px;
+    margin-left: 50px;
+    border-color: black;
+    padding-left: 10px;
+}
+
+.registrosend{
+    margin-left: 240px;
+    margin-top: 10px;
+}
+
+.voolver{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+/* CRUD */
+
+.handleRegistro{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.tod{
+    margin-left: 530px;
+}
+
+.textos{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.salir{
+    margin-top: -67px;
+    margin-left: 180px;
+    
+}
+
+.add{
+    margin-top: 27px;
+    margin-left: 15px;
+}
+
+.back{
+    margin-top: -115px;
+    margin-left: 105px;
+}
+
+.table{
+    width: 100px;
+}
